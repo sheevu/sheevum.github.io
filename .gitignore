@@ -1,0 +1,17 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore Jekyll build output
+/_site
+/.sass-cache
+
+# Ignore temporary and log files
+*.log
+*.tmp
+
+# Ignore gem files
+Gemfile.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
